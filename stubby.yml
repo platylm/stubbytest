@@ -1,0 +1,14 @@
+- request:
+    method: POST
+    url: /TAPolicyWS/Service.svc
+    query:
+      wsdl:
+    
+      
+
+  response:
+    status: 200
+    headers:
+      content-type: application/xml
+    file: response.xml
+
